@@ -448,3 +448,8 @@ abbr[data-title]:focus::after {
   stroke: var(--ifm-color-primary);
   fill: var(--ifm-color-primary);
 }
+
+.codeBlockLines_node_modules-\@docusaurus-theme-classic-lib-theme-CodeBlock-Content-styles-module {
+  padding: var(--ifm-pre-padding);
+  max-height: 500px;
+}
